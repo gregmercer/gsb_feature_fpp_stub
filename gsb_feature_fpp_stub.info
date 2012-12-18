@@ -1,4 +1,4 @@
-name = Test FPP
+name = GSB Stub Test FPP
 core = 7.x
 package = Features
 version = 7.x-1.0
