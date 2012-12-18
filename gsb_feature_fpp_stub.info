@@ -1,0 +1,9 @@
+name = Test FPP
+core = 7.x
+package = Features
+version = 7.x-1.0
+project = gsb_feature_fpp_stub
+dependencies[] = features
+dependencies[] = text
+features[features_api][] = api:1
+features[field][] = fieldable_panels_pane-test_fpp-field_test_bundle_text
