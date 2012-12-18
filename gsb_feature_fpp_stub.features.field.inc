@@ -7,15 +7,6 @@
 /**
  * Implements hook_field_default_fields().
  */
-function <?php
-/**
- * @file
- * test_fpp.features.field.inc
- */
-
-/**
- * Implements hook_field_default_fields().
- */
 function gsb_feature_fpp_stub_field_default_fields() {
   $fields = array();
 
